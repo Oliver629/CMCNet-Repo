@@ -15,7 +15,7 @@ Please use 2D X-ray data for testing
 
 Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
 
-### 4. Train/Test
+### 3. Train/Test
 
 - Run the train script on dataset. 
 
