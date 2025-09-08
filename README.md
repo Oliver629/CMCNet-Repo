@@ -6,9 +6,9 @@ This repo holds code for [CMCNet:Cross-directional Morphology-aware Convolution 
 
 ## Usage
 
-### 1. Prepare data (We use a private database)
+### 1. Prepare data (We use VinDr-RibCXR dataset)
 
-Please use 2D X-ray data for testing
+[Please use 2D X-ray data for testing](https://vindr.ai/ribcxr)
 
 
 ### 2. Environment
